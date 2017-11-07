@@ -1,1 +1,1 @@
-This is supposed to be a story that is three to five sentences long. So sentence one is complete and now I am typing sentece two. This sentence is the final one if typing the minimum amount. Here is another sentence for extra credit. Adding a fifth sentence to test git.
+This is supposed to be a story that is three to five sentences long. So sentence one is complete and now I am typing sentece two. This sentence is the final one if typing the minimum amount. Here is another sentence for extra credit. Adding a fifth sentence to test git. Added a sixth line to test Git.
